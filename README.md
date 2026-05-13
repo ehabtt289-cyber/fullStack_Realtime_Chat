@@ -9,8 +9,7 @@ Highlights:
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+
 
 ### Setup .env file
 
@@ -37,3 +36,4 @@ npm run build
 ```shell
 npm start
 ```
+This project was done with the help of AI.
